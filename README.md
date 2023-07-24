@@ -2,15 +2,11 @@
 
 Hello there!!.
 
-I created this portfolio website with the help of a tutorial from freeCodeCamp where you can view my career details and have a detailed look at my professional journey.
-
-Go ahead and feel free to use my project to build your own portfolio site and add some of your own features!!.
+I created this portfolio website with the help of a tutorial from freeCodeCamp website.
 
 This project was built using HTML, CSS and a little bit of JavaScript.
 
 Give it a try and run this project and let me know what you think!.
-
-Attaching some snaps of how the website looks in the browser.
 
 
 ![Screenshot 2022-11-18 at 8 48 26 PM](https://user-images.githubusercontent.com/43133633/202828606-e2723228-adc6-43ae-92ee-a61a12dd483c.png)

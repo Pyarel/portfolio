@@ -1,2 +1,2 @@
 # portfolio
-web portfolio app
+My web developer portfolio
